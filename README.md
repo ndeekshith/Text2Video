@@ -5,8 +5,8 @@
 This project generates a video from user-provided text prompts using Allegro for text generation and Stable Diffusion for image generation. The images are then compiled into a video.
 
 ## Example Video
-![Generated Video Preview](generated_video.gif)
-
+<video src="https://user-images.githubusercontent.com/ndeekshith/Text2Video/raw/main/generated_video.mp4" controls="controls" style="max-width: 730px;">
+</video>
 ## Installation
 To run this project, install the necessary dependencies:
 ```sh
